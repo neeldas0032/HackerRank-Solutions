@@ -24,7 +24,7 @@ Query the list of *CITY* names from **STATION** that *do not start* with vowels 
 | Language | mysql |
 | Score | 15.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 480781335 |
+| Submission ID | 480781366 |
 
 ---
 
