@@ -1,0 +1,1 @@
+Token replacement check. This file was created to verify repository write access with the new token.
