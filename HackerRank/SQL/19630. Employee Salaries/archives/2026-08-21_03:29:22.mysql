@@ -1,0 +1,6 @@
+/*
+Enter your query here.
+*/
+SELECT NAME
+FROM EMPLOYEE 
+WHERE MONTHS < 10 AND SALARY > 2000;
