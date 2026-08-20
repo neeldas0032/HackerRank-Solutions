@@ -1,0 +1,5 @@
+Hello!
+
+This file was automatically created using the GitHub API.
+
+HackerRank Auto Push is working! 🚀
