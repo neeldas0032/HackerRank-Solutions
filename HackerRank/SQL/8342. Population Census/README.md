@@ -26,7 +26,7 @@ Given the **CITY** and **COUNTRY** tables, query the sum of the populations of a
 | Language | mysql |
 | Score | 10.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 480866384 |
+| Submission ID | 480866395 |
 
 ---
 
