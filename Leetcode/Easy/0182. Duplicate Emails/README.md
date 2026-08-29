@@ -62,9 +62,9 @@ Person table:
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 424 ms (43.63%) |
+| Runtime | 439 ms (36.16%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2117307302 |
+| Submission ID | 2117316798 |
 
 ---
 
