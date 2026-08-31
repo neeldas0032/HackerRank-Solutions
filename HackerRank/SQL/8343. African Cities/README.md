@@ -26,7 +26,7 @@ Given the **CITY** and **COUNTRY** tables, query the names of all cities where t
 | Language | mysql |
 | Score | 10.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 481501584 |
+| Submission ID | 481674531 |
 
 ---
 
